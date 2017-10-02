@@ -5,7 +5,7 @@ public class Obstacle : MonoBehaviour {
 	//movement speed (0=no movement)
 	public float speed = 0;
 
-	//weird rigid body thing i still don't understand
+	//weird rigid body variable thing
 	public Rigidbody2D rb;
 
 	//switch movement direction every x seconds
